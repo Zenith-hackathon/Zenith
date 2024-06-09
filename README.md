@@ -1,1 +1,21 @@
 # Zenith
+
+"Zenith" represents the highest point or state, symbolizing peak innovation and excellence. It denotes the ultimate achievement and success, embodying the aspiration to reach the summit of progress and impact.
+It reflects the ambition to achieve the highest standards in integrating advanced technology with sustainable solutions. It emphasizes the pursuit of peak innovation in eco-friendly tech, aligning with the mission to lead in renewable energy and technological advancements.
+
+# Our LOGO
+
+
+# Our Slogan 
+Innovating Today for a Sustainable Tomorrow
+
+# Our Team Member Roles
+Mariem Khlifi : Team Leader
+Mouna Saadaoui : Team Facilitator
+Maissa Agal : Team Coordinator
+MohamedAli Sboui : Quality Assurance
+
+# UseCase2: AI powered Energy Disaggregation for Web3
+
+
+
