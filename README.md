@@ -11,8 +11,11 @@ Innovating Today for a Sustainable Tomorrow
 
 # Our Team Member Roles
 Mariem Khlifi : Team Leader
+
 Mouna Saadaoui : Team Facilitator
+
 Maissa Agal : Team Coordinator
+
 MohamedAli Sboui : Quality Assurance
 
 # UseCase2: AI powered Energy Disaggregation for Web3
