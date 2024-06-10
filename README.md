@@ -4,6 +4,7 @@
 It reflects the ambition to achieve the highest standards in integrating advanced technology with sustainable solutions. It emphasizes the pursuit of peak innovation in eco-friendly tech, aligning with the mission to lead in renewable energy and technological advancements.
 
 # Our LOGO
+![Innovating Today for a Sustainable Tomorrow (3)](https://github.com/mariemkhl/Zenith/assets/92894164/7be2d8d2-a479-4669-a8ce-1b5a10b4cb6d)
 
 
 # Our Slogan 
