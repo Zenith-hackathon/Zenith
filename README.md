@@ -26,7 +26,10 @@ Overview:
 
 The AI-powered Energy Disaggregation system is designed to optimize energy usage for both solar panel owners and potential investors. By leveraging advanced AI and Web3 technologies, the system provides real-time insights and recommendations, helping users maximize their energy efficiency and financial benefits.
 
+# Google Design Sprint 
+This is our work 
 
+https://miro.com/welcomeonboard/WDF3c0RYWFFod1NzWFhFM2t3UGxqYjZIeURteGZUMWNhMjZFYmJmZXV2VjVwV3lHWjJ2dDZwUUx6YzZYdGUxZHwzNDU4NzY0NTg0NDc1NjgzMTU5fDI=?share_link_id=72014736298
 
 
 
