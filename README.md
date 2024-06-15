@@ -29,6 +29,5 @@ The AI-powered Energy Disaggregation system is designed to optimize energy usage
 # Google Design Sprint 
 This is our work 
 
-https://miro.com/app/board/uXjVK9zbdnA=/?share_link_id=87134330611
-
+https://miro.com/app/board/uXjVK9zbdnA=/?share_link_id=894288474874
 
