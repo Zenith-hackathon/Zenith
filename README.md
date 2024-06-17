@@ -19,7 +19,15 @@ Maissa Agal : Team Coordinator
 
 MohamedAli Sboui : Quality Assurance
 
+Ahmed Charfeddine: Technical Specialist
+
 # UseCase2: AI powered Energy Disaggregation for Web3
+Overview:
 
+The AI-powered Energy Disaggregation system is designed to optimize energy usage for both solar panel owners and potential investors. By leveraging advanced AI and Web3 technologies, the system provides real-time insights and recommendations, helping users maximize their energy efficiency and financial benefits.
 
+# Google Design Sprint 
+This is our work 
+
+https://miro.com/app/board/uXjVK9zbdnA=/?share_link_id=894288474874
 
